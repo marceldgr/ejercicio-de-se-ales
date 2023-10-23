@@ -1,5 +1,7 @@
 #Taller práctico II - Secuencia de señales
+
 marcel diaz granados robayo   
+
 universidad del magdalena
 
 El proceso consiste en un conjunto de operaciones que por su complejidad se han decidido implementar en procesos hijos independientes. Cada proceso debe ser aplicado en un orden especifico, por lo que, en su conjunto, la secuencia es:
